@@ -4,7 +4,7 @@ Library untuk mencari & scrape profil perusahaan (DuckDuckGo, Google CSE, Bing).
 
 ## Install dari Git
 ```bash
-pip install "git+https://github.com/<user>/<repo>@v0.1.0"
+pip install "git+https://github.com/WanMuhafidzFaldi/deep-search-about-company-profile.git"
 ```
 
 ## Pakai di Python :
